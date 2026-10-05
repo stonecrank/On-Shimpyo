@@ -1,0 +1,118 @@
+{
+  "analyzedAt": 1791204432920,
+  "dominantDomain": "민원",
+  "overallBurnoutRisk": "경계",
+  "burnoutScore": 65,
+  "domainScores": [
+    {
+      "domain": "민원",
+      "label": "학부모 및 악성 민원 소통",
+      "icon": "🛡️",
+      "score": 71,
+      "percentage": 50,
+      "count": 1,
+      "statusLevel": "경계",
+      "primaryTriggers": [
+        "퇴근 후 야간/주말 알림장 및 카톡 연락",
+        "무리한 편의 제공 및 특별대우 요구",
+        "학생 간 다툼 발생 시 담임 책임 전가"
+      ],
+      "copingRecommendation": "개인 휴대전화 번호 비공개 원칙 고수 및 모든 학부모 민원을 학교 공식 유선전화와 교원업무시간(08:30~16:30)으로 한정할 것"
+    },
+    {
+      "domain": "업무",
+      "label": "과중한 행정업무 및 잡무",
+      "icon": "📋",
+      "score": 55,
+      "percentage": 25,
+      "count": 0,
+      "statusLevel": "주의",
+      "primaryTriggers": [
+        "공문서 마감 압박",
+        "나이스(NEIS) 입력 폭주",
+        "전시성 사업 기안"
+      ],
+      "copingRecommendation": "선생님 혼자 짊어지지 마시고 부장 교사 및 관리자에게 업무 분장 조정을 공식 건의하고, 오늘 처리할 최우선 공문 1개에만 집중할 것"
+    },
+    {
+      "domain": "수업",
+      "label": "수업 진행 및 학생 생활지도",
+      "icon": "📖",
+      "score": 45,
+      "percentage": 25,
+      "count": 0,
+      "statusLevel": "주의",
+      "primaryTriggers": [
+        "수업 중 돌발 행동 및 수업 방해",
+        "교사 정당 지도에 대한 반항 및 훈육 불응"
+      ],
+      "copingRecommendation": "교육부 학생생활지도 고시 기준에 따라 즉각 교실 분리 조치(학습지원실/교무실)를 요청하고 육하원칙 지도일지를 작성할 것"
+    },
+    {
+      "domain": "관계",
+      "label": "동료 교사 및 관리자 관계",
+      "icon": "👥",
+      "score": 30,
+      "percentage": 10,
+      "count": 0,
+      "statusLevel": "안정",
+      "primaryTriggers": [
+        "관리자(교장·교감)의 보호 부재",
+        "교무실 내 고립감"
+      ],
+      "copingRecommendation": "어려운 일은 절대로 혼자 속앓이하지 마시고 동학년 교사나 교원치유센터 전담 상담관과 연결하여 마음의 연대를 형성할 것"
+    },
+    {
+      "domain": "소진",
+      "label": "개인 심신 탈진 및 번아웃",
+      "icon": "🔋",
+      "score": 75,
+      "percentage": 15,
+      "count": 0,
+      "statusLevel": "경계",
+      "primaryTriggers": [
+        "일요일 저녁 출근 공포",
+        "가슴 답답함 및 신체화 긴장"
+      ],
+      "copingRecommendation": "퇴근 후 교직과의 물리적·심리적 경계선(업무 알림 완전 끄기, 따뜻한 족욕 15분, 심호흡)을 사수할 것"
+    }
+  ],
+  "aiComprehensiveDiagnosis": "선생님은 현재 학부모 민원과 누적된 교육 현장의 과중한 책임감으로 인해 신경계가 높은 각성 상태에 놓여 있습니다. 특히 \"내가 더 잘했어야 했나\"라는 자책이 심리적 회복을 가로막고 있으므로, 우선 선생님 개인의 희생을 멈추고 안전한 경계선을 확립해야 합니다.",
+  "stressRootCauses": [
+    "학부모의 퇴근 후 불규칙한 연락 및 무리한 요구로 인한 지속적 긴장",
+    "수업 외 행정업무와 돌발 학생 지도로 인한 에너지 소진",
+    "교사 혼자 모든 책임을 져야 한다는 고립감과 자책감"
+  ],
+  "personalizedCounselingDirectives": [
+    "상담 시 주의할 점: 선생님이 자책하지 않도록 민원 상황의 부당성을 먼저 인정할 것",
+    "상담 시 권장할 점: 거절하는 말하기와 퇴근 후 심리적 차단 기술을 구체적으로 코칭할 것",
+    "상담 시 지양할 점: \"아이 입장도 생각해보세요\"라는 2차 가해성 발언 절대 금지"
+  ],
+  "weeklyProtectionAction": "이번 주에는 퇴근 10분 전 모든 학교 업무 알림을 끄고, 저녁 시간에는 학교 전화 일체에 대응하지 않는 \"퇴근 경계선 의식\"을 지켜주세요.",
+  "stressTrend": [
+    {
+      "period": "3주 전",
+      "complaintScore": 45,
+      "workloadScore": 50,
+      "classroomScore": 30
+    },
+    {
+      "period": "2주 전",
+      "complaintScore": 65,
+      "workloadScore": 55,
+      "classroomScore": 35
+    },
+    {
+      "period": "지난 주",
+      "complaintScore": 80,
+      "workloadScore": 60,
+      "classroomScore": 40
+    },
+    {
+      "period": "이번 주",
+      "complaintScore": 85,
+      "workloadScore": 60,
+      "classroomScore": 40
+    }
+  ]
+}

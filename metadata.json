@@ -1,0 +1,6 @@
+{
+  "name": "온쉼표 (On-Shimpyo) - 지친 교사를 위한 마음 안식처",
+  "description": "과중한 업무, 악성 민원, 교권 스트레스로 지친 선생님들을 무조건적인 온기와 전문성으로 위로하는 교사 전용 AI 심리상담 쉼터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
